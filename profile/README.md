@@ -51,7 +51,7 @@
 
 <table>
   <tr>
-    <td><img width="600" src="https://user-images.githubusercontent.com/94429560/183660765-694b988e-5025-4552-ad29-df8d268ac763.png"></td>
+    <td><img width="600" src="https://user-images.githubusercontent.com/78795820/195228221-2df4aa04-d34f-4bd8-89be-a29decc342bb.png"></td>
     <td><img width="600" src="https://user-images.githubusercontent.com/57824857/182030983-494b7b0e-cc05-40f9-a4e1-32aa4c4a5091.png"></td>
   </tr>
   <tr>
